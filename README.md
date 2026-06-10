@@ -27,7 +27,7 @@ This Power BI dashboard analyzes user behavior across the sales funnel, from bro
 
 ## Dashboard Preview
 
-![User Funnel Dashboard](User Performance Dashboard.png)
+![User Funnel Dashboard](Funnel_Dashboard.png)
 
 ## Key Insights
 - Overall conversion rate is 10.8%, resulting in 1,080 purchases.
